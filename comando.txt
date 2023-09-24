@@ -71,3 +71,5 @@ Além disso, aqui estão os comandos mencionados para criar, mudar e mesclar bra
  
 
 - **`git merge nome-da-outra-branch`:** Mescla as alterações de uma branch em outra.
+
+Adicionando mais uma linha de texto no repositório local.
